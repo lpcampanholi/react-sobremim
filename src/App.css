@@ -2,3 +2,7 @@ body {
   background-color: whitesmoke;
   color: #333;
 }
+
+a:visited {
+  color: white;
+}
